@@ -6,7 +6,7 @@
 </p>
 
 - 👨‍💻 I’m a Cybersecurity Engineer
-- 🔭 I’m working on some projects in python (so far the best language in the world)
+- 🔭 I’m working on some projects in python
 - 🎮 I love gaming
 
 <br>
