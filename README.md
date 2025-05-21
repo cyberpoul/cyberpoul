@@ -7,8 +7,7 @@
 
 - 👨‍💻 I’m a Cybersecurity Engineer
 - 🔭 I’m working on some projects in python (so far the best language in the world)
-- 🎮 I love gaming.
-- ☕️ I hate coffee btw !
+- 🎮 I love gaming
 
 <br>
 <h2 align="left" id="macropower-title">🚀 Keep learning</h2>
