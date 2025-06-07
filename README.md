@@ -8,7 +8,6 @@
 - 👨‍💻 I’m a Cybersecurity Engineer
 - 🔭 I’m working on some projects in python
 
-<br>
 <h2 align="left" id="macropower-title">🚀 Keep learning every single day</h2>
 <br>
 <p align="center">
