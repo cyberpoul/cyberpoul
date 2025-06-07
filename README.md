@@ -7,10 +7,9 @@
 
 - 👨‍💻 I’m a Cybersecurity Engineer
 - 🔭 I’m working on some projects in python
-- 🎮 I love gaming
 
 <br>
-<h2 align="left" id="macropower-title">🚀 Keep learning</h2>
+<h2 align="left" id="macropower-title">🚀 Keep learning every single day</h2>
 <br>
 <p align="center">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
