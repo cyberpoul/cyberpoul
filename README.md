@@ -29,7 +29,7 @@
 <a target="_blank" href="https://www.root-me.org/Assa-431336/"><img src="https://img.shields.io/badge/-RootMe-black?style=for-the-badge&logo=&logoColor=white"></img></a>	
 <a target="_blank" href="https://ctftime.org/user/165125"><img src="https://img.shields.io/badge/-CTFTIME-red?style=for-the-badge&logo=&logoColor=white"></img></a>
 <a target="_blank" href="https://www.linkedin.com/in/prudencioo"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://tryhackme.com/p/Pruudoo"><img src="https://img.shields.io/badge/-TryHackMe-red?style=for-the-badge&logo=&logoColor=white"></img></a>
+<a target="_blank" href="https://tryhackme.com/p/e3x"><img src="https://img.shields.io/badge/-TryHackMe-red?style=for-the-badge&logo=&logoColor=white"></img></a>
 <a target="_blank" href="https://app.hackthebox.com/profile/291595"><img src="https://img.shields.io/badge/-HackTheBox-green?style=for-the-badge&logo=&logoColor=white"></img></a>
 </p>
 </p> 
