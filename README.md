@@ -6,7 +6,6 @@
   </a>
 	
 </p>
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cyberpoul.cyberpoul)
 
 - 👨‍💻 I’m a Cybersecurity Engineer
 - 🔭 I’m working on some projects in python
