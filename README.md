@@ -22,7 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cyberpoul&show_icons=true&hide=issues&hide_title=true&title_color=5C78FF&text_color=ffffff&icon_color=28B9FF&bg_color=0d1117&border_color=424242&hide_border=false&border_radius=10&hide_rank=false&rank_icon=github&custom_title=cyberpoul's%20Github%20Statistics&text_bold=true&ring_color=28B9FF&show=prs_merged_percentage" alt="GitHub stats" width="50%"/>
 </a>
 
-<hr>
   <img src="assets/walker.gif" alt="walker" width="70"><br>
   <img src="https://komarev.com/ghpvc/?username=cyberpoul&color=5C78FF&label=Visitors" alt="Profile Views Counter">
 
