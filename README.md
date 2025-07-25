@@ -1,4 +1,4 @@
-<h2 align="left" id="macropower-title">👋 Hello there !</h2>
+<h2 align="left" id="macropower-title">Hello there !</h2>
 <br>
 <p align="center">
    <i>" Don't let the noise of other people's opinions drown out your own inner voice. "</i>
