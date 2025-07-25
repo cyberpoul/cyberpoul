@@ -20,7 +20,7 @@
  
 
 
-  <img src="assets/walker.gif" alt="walker" width="70"><br>
+  <img src="assets/walker.gif" alt="walker" width="80"><br>
   <img src="https://komarev.com/ghpvc/?username=cyberpoul&color=5C78FF&label=Visitors" alt="Profile Views Counter">
 
 <a href=https://github.com/cyberpoul>
