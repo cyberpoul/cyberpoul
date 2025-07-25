@@ -1,4 +1,3 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cyberpoul.cyberpoul)
 <h1 align="left" id="macropower-title">👋 Hello there!</h1>
 <p align="left">
     <a href="https://ctftime.org/user/165125">
