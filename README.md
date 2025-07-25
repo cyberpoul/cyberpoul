@@ -36,4 +36,8 @@
 </p>
 </p> 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberpoul&title_color=5C78FF&text_color=803db0&icon_color=5C78FF&bg_color=0d1117&exclude_repo=Colorem&layout=compact&hide_border=true)](https://github.com/cyberpoul/github-readme-stats) -->
+<div align="center">
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=cyerpoul&show_icons=true&hide=issues&hide_title=true&title_color=5C78FF&text_color=8d45c0&icon_color=28B9FF&bg_color=0d1117&border_color=424242&hide_border=false&border_radius=10&hide_rank=false&rank_icon=github&custom_title=cyerpoul's%20Github%20Statistics&text_bold=true&ring_color=28B9FF&show=prs_merged_percentage" alt="GitHub stats" width="50%"/>
+</a>
+</div>
