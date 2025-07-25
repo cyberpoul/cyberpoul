@@ -35,3 +35,5 @@
 <a target="_blank" href="https://app.hackthebox.com/profile/291595"><img src="https://img.shields.io/badge/-HackTheBox-green?style=for-the-badge&logo=&logoColor=white"></img></a>
 </p>
 </p> 
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberpoul&title_color=5C78FF&text_color=803db0&icon_color=5C78FF&bg_color=0d1117&exclude_repo=Colorem&layout=compact&hide_border=true)](https://github.com/cyberpoul/github-readme-stats) -->
