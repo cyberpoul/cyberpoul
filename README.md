@@ -1,15 +1,4 @@
 <h1 align="left" id="macropower-title">👋 Hello there!</h1>
-<p align="left">
-    <a href="https://ctftime.org/user/165125">
-    <img alt="" src="https://img.shields.io/badge/CTF%20TIME%20-FF0000">
-  </a>
-	
-</p>
-
-- 👨‍💻 I’m a Cybersecurity Engineer
-- 🔭 I’m working on some projects in python
-
-<h2 align="left" id="macropower-title">🚀 Keep learning every single day</h2>
 <br>
 <p align="center">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
