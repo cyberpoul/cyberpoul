@@ -1,5 +1,5 @@
 <h2 align="left" id="macropower-title">Hello !</h2>
-<p align="center">
+<br>
 <p align="center">
 <a target="_blank" href="https://opscur.medium.com"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=&logoColor=white"></img></a>	
 <a target="_blank" href="https://redteam-tg.github.io"><img src="https://img.shields.io/badge/-CTF_TEAM-red?style=for-the-badge&logo=&logoColor=white"></img></a>
@@ -21,5 +21,6 @@
 </a>
 
 </div>
+
 
 
