@@ -1,10 +1,6 @@
 <h2 align="left" id="macropower-title">Hello !</h2>
 <br>
 <p align="center">
-   <i>" Don't let the noise of other people's opinions drown out your own inner voice. "</i>
-   <br>
-   <i>Steve Jobs</i>
-   <br>
 <br>
 <p align="center">
 <a target="_blank" href="https://opscur.medium.com"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=&logoColor=white"></img></a>	
@@ -27,3 +23,4 @@
 </a>
 
 </div>
+
