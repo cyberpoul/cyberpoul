@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=cyberpoul&color=4a0b9e&label=Visitors" alt="Profile Views Counter">
 
   </div>
-
+<br>
 <p align="center">
 <a target="_blank" href="https://opscur.medium.com"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=&logoColor=white"></img></a>	
 <a target="_blank" href="https://redteam-tg.github.io"><img src="https://img.shields.io/badge/-CTF_TEAM-red?style=for-the-badge&logo=&logoColor=white"></img></a>
@@ -26,6 +26,7 @@
 </a>
 
 </div>
+
 
 
 
