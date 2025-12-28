@@ -22,22 +22,13 @@
 
 
 <a href="https://github.com/cyberpoul">
-  <img src="https://github-readme-stats.vercel.app/api
-?username=cyberpoul
-&show_icons=true
-&hide=issues
-&title_color=5C78FF
-&text_color=ffffff
-&icon_color=28B9FF
-&bg_color=0d1117
-&border_color=424242
-&border_radius=10
-&ring_color=28B9FF"
-  width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberpoul&show_icons=true&hide=issues&title_color=5C78FF&text_color=ffffff&icon_color=28B9FF&bg_color=0d1117&border_color=424242&border_radius=10&ring_color=28B9FF" width="50%" />
 </a>
 
 
+
 </div>
+
 
 
 
