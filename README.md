@@ -21,14 +21,18 @@
 
 
 
+<p align="center">
 <a href="https://github.com/cyberpoul">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberpoul&show_icons=true&hide=issues&title_color=5C78FF&text_color=ffffff&icon_color=28B9FF&bg_color=0d1117&border_color=424242&border_radius=10&ring_color=28B9FF" width="50%" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cyberpoul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cyberpoul&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
 
 
 
 
 </div>
+
 
 
 
