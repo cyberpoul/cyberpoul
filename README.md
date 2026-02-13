@@ -9,7 +9,7 @@
 <p align="center">
 <a target="_blank" href="https://opscur.medium.com"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=&logoColor=white"></img></a>	
 <a target="_blank" href="https://redteam-tg.github.io"><img src="https://img.shields.io/badge/-CTF_TEAM-red?style=for-the-badge&logo=&logoColor=white"></img></a>
-<a target="_blank" href="https://linkedin.com/in/prudencioo"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://discord.gg/U3dc6pkV"><img src="https://img.shields.io/badge/-Discord-0077B5?style=for-the-badge&logo=Discord&logoColor=white"></img></a>
 <a target="_blank" href="https://cyberpoul.github.io"><img src="https://img.shields.io/badge/-Pro-green?style=for-the-badge&logo=&logoColor=white"></img></a>
 </p>
 </p> 
@@ -31,6 +31,7 @@
 
 
 </div>
+
 
 
 
