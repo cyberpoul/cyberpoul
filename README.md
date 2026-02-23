@@ -5,7 +5,6 @@
 
   </div>
 <br>
-<img src="https://github-readme-snake.vercel.app/api/serializer?github_user_id=0p5cur&color_snake=%234a0b9e&color_dots=%23ebedf0%2C%239be9a8%2C%2340c463%2C%2330a14e%2C%23216e39" alt="Snake animation" />
 
 <div align="center">
 
@@ -24,6 +23,7 @@
 
 
 </div>
+
 
 
 
